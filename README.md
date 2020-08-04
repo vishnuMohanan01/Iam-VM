@@ -1,7 +1,7 @@
 # ***Hello, Iam-VM.***
 
 
- :heavy_plus_sign: ```React```  :trident: ```Node```    :heavy_plus_sign: ```GraphQL```
+:heavy_plus_sign: ```React```  :trident: ```Node```    :heavy_plus_sign: ```GraphQL```  :heavy_plus_sign: ```Postgres```  :trident: ```C++```    :heavy_plus_sign: ```Python```
    
 
 <!--
