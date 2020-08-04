@@ -3,7 +3,7 @@
 
 :heavy_plus_sign: ```React``` &nbsp;&nbsp;&nbsp; :trident: ```Node```&nbsp;&nbsp;&nbsp; :heavy_plus_sign: ```GraphQL```&nbsp;&nbsp;&nbsp;  :heavy_plus_sign: ```Postgres```&nbsp;&nbsp;&nbsp;  :trident: ```C++```&nbsp;&nbsp;&nbsp;    :heavy_plus_sign: ```Python```
    
-> Reach me through
+> **Collaborate**
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```iamvm.dev@gmail.com```
 <!--
