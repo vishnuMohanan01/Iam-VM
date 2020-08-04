@@ -1,5 +1,10 @@
 # ***Hello, Iam-VM.***
 
+```
+* :heavy_plus_sign: React
+* :trident: Node :heavy_plus_sign:
+```
+   
 
 <!--
 **Iam-VM/Iam-VM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
