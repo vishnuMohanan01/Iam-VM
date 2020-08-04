@@ -1,9 +1,9 @@
 # ***Hello, Iam-VM.***
 
-```
-* :heavy_plus_sign: React
-* :trident: Node :heavy_plus_sign:
-```
+
+* :heavy_plus_sign: ```React```
+* :trident: ```Node``` 
+* :heavy_plus_sign: ```GraphQL```
    
 
 <!--
